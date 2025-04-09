@@ -14,6 +14,9 @@ jobs:
           github_user_name: milanh34
           outputs: |
             ./dist/github-contribution-grid-snake.svg
+          color_snake: "#00FF9F"
+          color_dots: "#444B6E,#392467,#7B68EE,#483D8B"
+          background: "#000000"
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
         with:

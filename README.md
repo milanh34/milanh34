@@ -109,7 +109,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/milanh34/milanh34/output/github-contribution-grid-snake.svg?v=1)
+![snake gif](https://raw.githubusercontent.com/milanh34/milanh34/output/github-contribution-grid-snake.svg?v=3)
 
 ---
 
